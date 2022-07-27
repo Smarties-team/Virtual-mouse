@@ -1,0 +1,14 @@
+
+.idea/
+CVMouseControl.py
+CVMediapipe_HandTracking.py
+FaceMeshModule.py
+V1/
+__pycache__/
+face_detection.py
+hand1.m4a
+hand2.m4a
+handRaiseDetector.py
+multithreading.py
+multithreading_test.py
+AIVirtualMouseProject.py
